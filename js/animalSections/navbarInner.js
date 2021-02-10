@@ -6,9 +6,9 @@ function addLinkToButton(buttonId, pageURL) {
     });
 }
 
-addLinkToButton("mainPageButton", "https://hristov98.github.io/index.html");
-addLinkToButton("loginButton", "https://hristov98.github.io/html/login.html");
-addLinkToButton("registerButton", "https://hristov98.github.io/html/registration.html");
+addLinkToButton("mainPageButton", "/index.html");
+addLinkToButton("loginButton", "/html/login.html");
+addLinkToButton("registerButton", "/html/registration.html");
 
 function addActionToNavbarButton(buttonId, category) {
     document.getElementById(buttonId).addEventListener("click", function (mouseEvent) {
@@ -68,7 +68,7 @@ function addEntriesByCategory(category) {
         }
     };
 
-    let jsonURL = "https://hristov98.github.io/js/animalSections/animalInformation.json";
+    let jsonURL = "/js/animalSections/animalInformation.json";
     xhttp.open("GET", jsonURL, true);
     xhttp.send();
 }

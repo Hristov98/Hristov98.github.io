@@ -6,9 +6,9 @@ function addLinkToButton(buttonId, pageURL) {
     });
 }
 
-addLinkToButton("mainPageButton", "https://hristov98.github.io/index.html");
+addLinkToButton("mainPageButton", "/index.html");
 
-addLinkToButton("invertebratesButton", "https://hristov98.github.io/html/animalSections/invertebrates.html");
+addLinkToButton("invertebratesButton", "/html/animalSections/invertebrates.html");
 
-addLinkToButton("loginButton", "https://hristov98.github.io/html/userControl/login.html");
-addLinkToButton("registerButton", "https://hristov98.github.io/html/userControl/registration.html");
+addLinkToButton("loginButton", "/html/userControl/login.html");
+addLinkToButton("registerButton", "/html/userControl/registration.html");
