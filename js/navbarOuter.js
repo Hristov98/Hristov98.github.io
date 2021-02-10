@@ -16,14 +16,14 @@ function addLinkToButton(buttonId, pageURL) {
     });
 }
 
-addLinkToButton("mainPageButton", "http://127.0.0.1:5500/index.html");
-addLinkToButton("loginButton", "http://127.0.0.1:5500/html/login.html");
-addLinkToButton("registerButton", "http://127.0.0.1:5500/html/registration.html");
+addLinkToButton("mainPageButton", "https://hristov98.github.io/index.html");
+addLinkToButton("loginButton", "https://hristov98.github.io/html/login.html");
+addLinkToButton("registerButton", "https://hristov98.github.io/html/registration.html");
 
 function addActionToNavbarButton(buttonId, category) {
     document.getElementById(buttonId).addEventListener("click", function () {
         document.cookie = `selectedSection = ${category}; path=/`;
-        window.location = "http://127.0.0.1:5500/html/animalSection.html";
+        window.location = "https://hristov98.github.io/html/animalSection.html";
     });
 }
 

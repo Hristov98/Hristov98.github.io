@@ -40,12 +40,12 @@ function validateUserRegistrationForm() {
                 }
 
                 if (userIsNotRegistered) {
-                    window.location = "http://127.0.0.1:5500/index.html";
+                    window.location = "https://hristov98.github.io/index.html";
                 }
             }
         };
 
-        let jsonURL = "http://127.0.0.1:5500/js/userControl/users.json";
+        let jsonURL = "https://hristov98.github.io/js/userControl/users.json";
         xhttp.open("GET", jsonURL, true);
         xhttp.send();
     }

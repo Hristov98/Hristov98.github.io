@@ -22,7 +22,7 @@ function validateUserLoginForm() {
                         jsonResultArray[i].email === inputEmail &&
                         jsonResultArray[i].password === inputPassword
                     ) {
-                        window.location = "http://127.0.0.1:5500/index.html";
+                        window.location = "https://hristov98.github.io/index.html";
                         userDoesNotExist = false;
                     }
                 }
@@ -34,7 +34,7 @@ function validateUserLoginForm() {
             }
         };
 
-        let jsonURL = "http://127.0.0.1:5500/js/userControl/users.json";
+        let jsonURL = "https://hristov98.github.io/js/userControl/users.json";
         xhttp.open("GET", jsonURL, true);
         xhttp.send();
     }
