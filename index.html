@@ -1,1 +1,76 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Main page</title>
+
+        <link rel="stylesheet" href="http://127.0.0.1:5500/css/pageSetup.css" />
+        <link rel="stylesheet" href="http://127.0.0.1:5500/css/headerSetup.css" />
+        <link rel="stylesheet" href="http://127.0.0.1:5500/css/index.css" />
+    </head>
+    <body>
+        <header>
+            <button id="mainPageButton">Marine Fauna Enclyclopedia</button>
+            <div class="userManagement">
+                <button id="loginButton">Login</button>
+                <button id="registerButton">Register</button>
+            </div>
+        </header>
+        <main>
+            <p id="selectionLabel">Select a group</p>
+            <section class="sectionList">
+                <button id="invertebratesButton" class="sectionContainer">
+                    <p class="sectionLabel">Invertebrates</p>
+                    <img
+                        class="sectionImage"
+                        src="http://127.0.0.1:5500/img/mainPage/invertebrateTab.jpg"
+                        alt="Invertebrate image"
+                    />
+                </button>
+                <button id="crustaceansButton" class="sectionContainer">
+                    <p class="sectionLabel">Crustaceans</p>
+                    <img
+                        class="sectionImage"
+                        src="http://127.0.0.1:5500/img/mainPage/crustaceanTab.jpg"
+                        alt="Crustacean image"
+                    />
+                </button>
+                <button id="fishButton" class="sectionContainer">
+                    <p class="sectionLabel">Ocean Fish</p>
+                    <img
+                        class="sectionImage"
+                        src="http://127.0.0.1:5500/img/mainPage/fishTab.jpg"
+                        alt="Fish image"
+                    />
+                </button>
+                <button id="sharksButton" class="sectionContainer">
+                    <p class="sectionLabel">Sharks</p>
+                    <img
+                        class="sectionImage"
+                        src="http://127.0.0.1:5500/img/mainPage/sharkTab.jpg"
+                        alt="Shark image"
+                    />
+                </button>
+                <button id="reptilesButton" class="sectionContainer">
+                    <p class="sectionLabel">Reptiles</p>
+                    <img
+                        class="sectionImage"
+                        src="http://127.0.0.1:5500/img/mainPage/reptileTab.jpg"
+                        alt="Reptile image"
+                    />
+                </button>
+                <button id="mammalsButton" class="sectionContainer">
+                    <p class="sectionLabel">Mammals</p>
+                    <img
+                        class="sectionImage"
+                        src="http://127.0.0.1:5500/img/mainPage/mammalTab.jpg"
+                        alt="Mammal image"
+                    />
+                </button>
+            </section>
+        </main>
+
+        <script src="http://127.0.0.1:5500/js/navbarOuter.js"></script>
+    </body>
+</html>

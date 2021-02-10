@@ -1,0 +1,422 @@
+[
+    {
+        "id": "sevenArmedStarfish",
+        "type": "Invertebrate",
+        "name": "Seven-Armed Starfish",
+        "scientificName": "Luidia ciliaris",
+        "description": [
+            "L. ciliaris is an orangeish-brown colour and has seven long arms radiating from a small disk. It is a large but fragile sea star, growing to 40 cm across, and easily losing its arms (which afterwards regenerate).",
+            "L. ciliaris occurs on the seabed in the eastern Atlantic Ocean from Norway and the Faroe Islands southwards to Cape Verde and the Azores and in the Mediterranean Sea. It is found in the neritic zone at depths down to 400 m, mainly on soft sediments into which it sometimes burrows, but sometimes on rock.",
+            "L. ciliaris is a predator and scavenger and feeds predominantly on other echinoderms. A study in the Irish Sea found that the brittle stars and the sea urchin formed the chief items of prey."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/invertebratePage/sevenArmedStarfish.jpg"
+    },
+    {
+        "id": "blueAngel",
+        "type": "Invertebrate",
+        "name": "Blue Angel",
+        "scientificName": "Glaucus atlanticus",
+        "description": [
+            "Glaucus atlanticus is a species of small, blue sea slug, a pelagic aeolid nudibranch, a shell-less gastropod mollusk in the family Glaucidae.",
+            "At maturity Glaucus atlanticus can be up to 3 centimetres in length, though larger specimens have been found. It can live up to a year under the right conditions. It is silvery grey on its dorsal side and dark and pale blue ventrally. It has dark blue stripes on its head.",
+            "G. atlanticus preys on other larger pelagic organisms. The sea slugs can move toward prey or mates by using their cerata to make slow swimming movements. They are known to prey on the dangerously venomous Portuguese man o' war, the blue button, and the violet snail. Occasionally, individuals attack and eat other individuals in captivity."
+        ],
+        "likeCounter": 1,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/invertebratePage/blueAngel.jpg"
+    },
+    {
+        "id": "giantClam",
+        "type": "Invertebrate",
+        "name": "Giant Clam",
+        "scientificName": "Tridacna gigas",
+        "description": [
+            "Tridacna gigas is one of the most endangered clam species. The giant  clam lives in flat coral sand or broken coral and can be found at depths of as much as 20 m. Its range covers the Indo-Pacific, but populations are diminishing quickly, and the giant clam has become extinct in many areas where it was once common.",
+            "Algae provide giant clams with a supplementary source of nutrition. These plants consist of unicellular algae, whose metabolic products add to the clam's filter food. As a result, they are able to grow as  large as one meter in length even in nutrient-poor coral-reef waters.",
+            "Tridacna gigas reproduce sexually and are hermaphrodites. Self-fertilization is not possible, but this characteristic does allow them to reproduce with any other member of the species."
+        ],
+        "likeCounter": 2,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/invertebratePage/giantClam.jpg"
+    },
+    {
+        "id": "blueRingedOctopus",
+        "type": "Invertebrate",
+        "name": "Blue-ringed Octopus",
+        "scientificName": "Hapalochlaena",
+        "description": [
+            " Blue-ringed octopuses, comprising the genus Hapalochlaena, are four highly venomous species of octopus that are found in tide pools and coral reefs in the Pacific and Indian oceans, from Japan to Australia.",
+            "They are recognized as one of the world's most venomous marine animals. Despite their small size (12 to 20 cm) and relatively docile nature, they carry enough venom to kill 26 adult humans. Their bites are tiny and often painless, with many victims not realizing they have been envenomated until respiratory depression and paralysis begins.",
+            "The venom can result in nausea, respiratory arrest, heart failure, severe and sometimes total paralysis, blindness, and can lead to death within minutes if not treated."
+        ],
+        "likeCounter": 3,
+        "dangerLevel": 4.5,
+        "imageURL": "http://127.0.0.1:5500/img/invertebratePage/blueRingedOctopus.jpg"
+    },
+    {
+        "id": "seaWasp",
+        "type": "Invertebrate",
+        "name": "Sea Wasp",
+        "scientificName": "Chironex fleckeri",
+        "description": [
+            "Chironex fleckeri is a species of extremely venomous box jellyfish found in coastal waters from northern Australia and New Guinea to Malaysia, the Philippines and Vietnam. It has been described as \"the most lethal jellyfish in the world\".",
+            "Notorious for its sting, C. fleckeri has tentacles up to 3 m long covered with millions of cnidocytes which, on contact, release microscopic darts delivering an extremely powerful venom. Being stung commonly results in excruciating pain, and if the sting area is significant, an untreated victim may die in two to five minutes. The amount of venom in one animal is said to be enough to kill 60 adult humans.",
+            "In Australia, C. fleckeri has caused at least 64 deaths since the first report in 1883, but most encounters appear to result only in mild envenomation. When people do die, it is usually caused by a cardiac arrest occurring within minutes of the sting."
+        ],
+        "likeCounter": 4,
+        "dangerLevel": 4.5,
+        "imageURL": "http://127.0.0.1:5500/img/invertebratePage/seaWasp.jpg"
+    },
+    {
+        "id": "gooseBarnacle",
+        "type": "Crustacean",
+        "name": "Goose Barnacle",
+        "scientificName": "Pollicipes pollicipes",
+        "description": [
+            "Goose barnacles, also called stalked barnacles or gooseneck barnacles, are filter-feeding crustaceans that live attached to hard surfaces of rocks and flotsam in the ocean intertidal zone. Unlike most other types of barnacles, intertidal goose barnacles depend on water motion rather than the movement of their cirri for feeding, and are therefore found only on exposed or moderately exposed coasts.",
+            "In Portugal and Spain, the species is a widely consumed and expensive delicacy known as percebes. Percebes are harvested commercially in the Iberian northern coast, mainly in Galicia and Asturias.",
+            "In the days before it was realised that birds migrate, it was thought that barnacle geese developed from this crustacean through spontaneous generation, since they were never seen to nest in temperate Europe."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/crustaceanPage/gooseBarnacle.jpg"
+    },
+    {
+        "id": "hermitCrab",
+        "type": "Crustacean",
+        "name": "Hermit Crab",
+        "scientificName": "Clibanarius erythropus",
+        "description": [
+            "Clibanarius erythropus is a species of hermit crab that lives in rockpools and sublittoral waters. It is found in the Mediterranean Sea, Black Sea and eastern Atlantic Ocean from the Azores to Brittany, the Channel Islands and as far north as the south Cornwall coast. Individuals may grow up to a carapace length of 15 millimetres.",
+            "Like other hermit crabs, C. erythropus feeds on organic debris, decayed and fresh macro-algae, small invertebrates, and macroscopic pieces of animal tissues.",
+            "The strong association between hermit crabs and their shelters has significantly influenced their biology. This protective mobility contributes to the diversity and multitude of crustaceans found in almost all marine environments. It has been shown that C. erythropus individuals select substrates where they can cover large distances, and that globose shells allow them greater mobility than elongate ones."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/crustaceanPage/hermitCrab.jpg"
+    },
+    {
+        "id": "redKingCrab",
+        "type": "Crustacean",
+        "name": "Red King Crab",
+        "scientificName": "Paralithodes camtschaticus",
+        "description": [
+            "The red king crab, also called Kamchatka crab or Alaskan king crab, is a species of king crab native to the far northern Pacific Ocean, including the Bering Sea and Gulf of Alaska, but also introduced to the Barents Sea.",
+            "The red king crab is the largest species of king crab. Red king crabs can reach a carapace width up to 28 cm, a leg span of 1.8 m, and a weight of 12.7 kg. It was named after the color it turns when it is cooked rather than the color of a living animal, which tends to be more burgundy.",
+            "It is the most coveted of the commercially sold king crab species, and it is the most expensive per unit weight. It is most commonly caught in the Bering Sea and Norton Sound, Alaska, and is particularly difficult to catch, but is nonetheless one of the most preferred crabs for consumption."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 1,
+        "imageURL": "http://127.0.0.1:5500/img/crustaceanPage/redKingCrab.jpg"
+    },
+    {
+        "id": "mantisShrimp",
+        "type": "Crustacean",
+        "name": "Mantis Shrimp",
+        "scientificName": "Odontodactylus scyllarus",
+        "description": [
+            "Mantis shrimps, are carnivorous marine crustaceans of the order Stomatopoda. Mantis shrimps typically grow to around 10 cm in length.",
+            "They're sometimes referred to as \"thumb splitters\" because of the animal's ability to inflict painful wounds if handled incautiously. Mantis shrimp are commonly separated into two distinct groups determined by the type of claws they possess - Smashers and Spearers. Both types strike by rapidly unfolding and swinging their raptorial claws at the prey with speeds of 23 m/s from a standing start, and can inflict serious damage on victims significantly greater in size than themselves.",
+            "Smashers use this ability to attack snails, crabs, molluscs, and rock oysters. Spearers, however, prefer the meat of softer animals, such as fish, which their barbed claws can more easily slice and snag."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 1.5,
+        "imageURL": "http://127.0.0.1:5500/img/crustaceanPage/mantisShrimp.jpg"
+    },
+    {
+        "id": "japaneseSpiderCrab",
+        "type": "Crustacean",
+        "name": "Japanese Spider Crab",
+        "scientificName": "Macrocheira kaempferi",
+        "description": [
+            "The Japanese spider crab (Macrocheira kaempferi) is a species of marine crab that lives in the waters around Japan. It has the greatest leg span of any arthropod, reaching up to 3.7 metres from claw to claw. The body may grow to a size of 40 cm in carapace width and the whole crab can weigh up to 19 kilograms.",
+            "The Japanese spider crab is known to the Japanese for the serious injuries it can cause with its strong claws. It is occasionally collected for food, and even considered a delicacy in many parts of Japan and other areas in the region.",
+            "Female crabs carry the fertilized eggs attached to their abdominal appendages until they hatch into tiny planktonic larvae. They can lay up to 1.5 million eggs per season, and these eggs will hatch in 10 days on average. Once hatched, these larvae undergo four stages of development before they mature into adulthood."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 2,
+        "imageURL": "http://127.0.0.1:5500/img/crustaceanPage/japaneseSpiderCrab.jpg"
+    },
+    {
+        "id": "ribbonEel",
+        "type": "Ocean Fish",
+        "name": "Ribbon Eel",
+        "scientificName": "Rhinomuraena quaesita",
+        "description": [
+            "The ribbon eel, also known as the leaf-nosed moray eel or bernis eel, is a species of moray eel, the only member of the genus Rhinomuraena. The ribbon eel is found in lagoons and reefs in the Indo-Pacific ocean, ranging from East Africa to southern Japan, Australia and French Polynesia.",
+            "This species is widely distributed and is frequently seen by divers in Indonesian waters with their heads and anterior bodies protruding from crevices in sand and rubble habitats from very shallow to about 60 m. They are well known for their characteristic jaws that are frequently opened very widely when a diver approaches.",
+            "Although captured for the aquarium industry, it remains common and widespread, and is not considered threatened."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/fishPage/ribbonEel.jpg"
+    },
+    {
+        "id": "giantMantaRay",
+        "type": "Ocean Fish",
+        "name": "Giant Manta Ray",
+        "scientificName": "Mobula birostris",
+        "description": [
+            "The giant oceanic manta ray is a species of ray in the family Mobulidae, and the largest type of ray in the world. It can grow to a disc size of up to 7 m across with a weight of about 3,000 kg. It is typically found in tropical and subtropical waters, but can also be found in temperate waters.",
+            "Because of its large size and velocity in case of danger, the oceanic manta ray has very few natural predators that could be fatal to it. Nonlethal shark bites are very common occurrences.",
+            "When traveling in deep water, the giant oceanic manta ray swims steadily in a straight line, while further inshore it usually basks or swims idly around. Mantas may travel alone or in groups of up to 50 and sometimes associate with other fish species, as well as sea birds and marine mammals."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/fishPage/giantMantaRay.jpg"
+    },
+    {
+        "id": "oceanSunfish",
+        "type": "Ocean Fish",
+        "name": "Ocean Sunfish",
+        "scientificName": "Mola mola",
+        "description": [
+            "The ocean sunfish or common mola is one of the heaviest known bony fishes in the world. Adults typically weigh between 247 and 1,000 kg. The species is native to tropical and temperate waters around the world.",
+            "Sunfish are generalist predators that consume largely small fishes, fish larvae, squid, and crustaceans. Sea jellies and salps, once thought to be the primary prey of sunfish, make up only 15% of a sunfish's diet.",
+            "Despite their size, ocean sunfish are docile and pose no threat to human divers. Injuries from sunfish are rare, although a slight danger exists from large sunfish leaping out of the water onto boats. Areas where they are commonly found are popular destinations for sport dives, and sunfish at some locations have reportedly become familiar with divers."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 1,
+        "imageURL": "http://127.0.0.1:5500/img/fishPage/oceanSunfish.jpg"
+    },
+    {
+        "id": "whiteMarlin",
+        "type": "Ocean Fish",
+        "name": "White Marlin",
+        "scientificName": "Kajikia albida",
+        "description": [
+            "The white marlin is a species of billfish that lives in the epipelagic zone of the tropical and subtropical Atlantic Ocean. Even though white marlin are found in bodies of water that are deeper than 100 m they tend to stay near the surface.",
+            "White marlin are near the top of the food chain and will consume any prey they can find that is manageable for their size. Schooling flyingfish, small tuna, mahi-mahi, and squid are the preferred prey of white marlin. White marlin usually keep to themselves, but associate with other apex predators to increase the efficiency of foraging.",
+            "About 90% of the annual catch is caught accidentally in bycatch from fishing around the world. Many billfish are caught in gillnets or on longline hooks that were meant to catch other fish species. Since these hooks and nets are set for long periods of time, white marlin become food to sharks, pilot whales, and killer whales."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 1,
+        "imageURL": "http://127.0.0.1:5500/img/fishPage/whiteMarlin.jpg"
+    },
+    {
+        "id": "devilFirefish",
+        "type": "Ocean Fish",
+        "name": "Devil Firefish",
+        "scientificName": "Pterois miles",
+        "description": [
+            "The devil firefish or common lionfish, is a species of ray-finned fish native to the western Indo-Pacific region. It is frequently confused with its close relative, the red lionfish (Pterois volitans).",
+            "The common lionfish is mainly nocturnal and hides in crevices during the daytime. It feeds on fish and small crustaceans. It has few predators because of its venomous spines, but larger lionfish do prey on smaller ones.",
+            "Lionfish are known for their venomous fin rays. The potency of their venom makes them excellent predators and hazardous to fishermen and divers. In humans, Pterois venom can cause systemic effects such as extreme pain, nausea, vomiting, fever, breathing difficulties, convulsions, dizziness, redness on the affected area, headache, numbness, heartburn, diarrhea, and sweating."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 2.5,
+        "imageURL": "http://127.0.0.1:5500/img/fishPage/devilFirefish.jpg"
+    },
+    {
+        "id": "whaleShark",
+        "type": "Shark",
+        "name": "Whale Shark",
+        "scientificName": "Rhincodon typus",
+        "description": [
+            "The whale shark is a slow-moving, filter-feeding carpet shark and the largest known extant fish species. The largest confirmed individual had a length of 18.8 m. They feed almost exclusively on plankton and small fishes.",
+            "Whale shark mouths can contain over 300 rows of tiny teeth and 20 filter pads which it uses to filter feed. Unlike many other sharks, whale sharks' mouths are located at the front of the head rather than on the underside of the head.",
+            "Despite its size, the whale shark does not pose any danger to humans. Whale sharks are docile fish and sometimes allow swimmers to catch a ride, although this practice is discouraged by shark scientists and conservationists because of the disturbance to the sharks. Younger whale sharks are gentle and can play with divers."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/sharkPage/whaleShark.jpg"
+    },
+    {
+        "id": "greatHammerheadShark",
+        "type": "Shark",
+        "name": "Great Hammerhead Shark",
+        "scientificName": "Sphyrna mokarran",
+        "description": [
+            "The great hammerhead is the largest species of hammerhead shark, attaining an average length of 4.6 m. It is found in tropical and warm temperate waters worldwide, inhabiting coastal areas and the continental shelf.",
+            "With its large size and cutting teeth, the great hammerhead could seriously injure a human and caution should be exercised around them. Divers underwater have reported that great hammerheads tend to be shy or nonreactive toward humans.",
+            "Although potentially dangerous, the great hammerhead rarely attacks humans. It sometimes behaves inquisitively toward divers and should be treated with respect. This shark is heavily fished for its large fins, which are extremely valuable on the Asian market as the main ingredient of shark fin soup. As a result, great hammerhead populations are declining substantially worldwide."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 2.5,
+        "imageURL": "http://127.0.0.1:5500/img/sharkPage/greatHammerheadShark.jpg"
+    },
+    {
+        "id": "tigerShark",
+        "type": "Shark",
+        "name": "Tiger Shark",
+        "scientificName": "Galeocerdo cuvier",
+        "description": [
+            "The tiger shark is a large macropredator, capable of attaining a length over 5 m. Populations are found in many tropical and temperate waters, especially around central Pacific islands. Its name derives from the dark stripes down its body, which resemble a tiger's pattern, but fade as the shark matures.",
+            "It is notable for having the widest food spectrum of all sharks, with a range of prey that includes crustaceans, fish, seals, birds, squid, turtles, sea snakes, dolphins, and even other smaller sharks.",
+            "The tiger shark is regarded as one of the most dangerous shark species. They often visit shallow reefs, harbors, and canals, creating the potential for encounter with humans. It ranks second on the list of number of recorded bites on humans, behind only the great white shark."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 4,
+        "imageURL": "http://127.0.0.1:5500/img/sharkPage/tigerShark.jpg"
+    },
+    {
+        "id": "greatWhiteShark",
+        "type": "Shark",
+        "name": "Great White Shark",
+        "scientificName": "Carcharodon carcharias",
+        "description": [
+            "The great white shark is a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans. On average males measure 3.4 to 4.0 m, and females measure 4.6 to 4.9 m.",
+            "The great white shark has no known natural predators other than, on very rare occasions, the killer whale. It is one of the primary predators of marine mammals, up to the size of large baleen whales. This shark is also known to prey upon a variety of other marine animals, including fish, and seabirds.",
+            "While great white sharks have killed humans in at least 74 documented unprovoked bite incidents, they typically do not target them. Many of the incidents seemed to be \"test-bites\". Great white sharks test-bite buoys, flotsam, and other unfamiliar objects, and they might grab a human or a surfboard to identify what it is."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 4.5,
+        "imageURL": "http://127.0.0.1:5500/img/sharkPage/greatWhiteShark.jpg"
+    },
+    {
+        "id": "bullShark",
+        "type": "Shark",
+        "name": "Bull Shark",
+        "scientificName": "Carcharhinus leucas",
+        "description": [
+            "The bull shark is a requiem shark commonly found worldwide in warm, shallow waters along coasts and in rivers. It is known for its aggressive nature, and is commonly found worldwide in coastal areas of warm oceans, in rivers and lakes, and occasionally salt and freshwater streams if they are deep enough.",
+            "The bull shark's diet consists mainly of bony fish and small sharks, including other bull sharks, and stingrays. Bull sharks have been known to use the bump-and-bite technique to attack their prey. After the first initial contact, they continue to bite and tackle prey until they are unable to flee.",
+            "Bull sharks often dwell in very shallow waters, are found in many types of habitats, are territorial by nature, and have no tolerance for provocation. For this reason, they are considered more dangerous to humans than any other species of shark."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 5,
+        "imageURL": "http://127.0.0.1:5500/img/sharkPage/bullShark.jpg"
+    },
+    {
+        "id": "loggerheadSeaTurtle",
+        "type": "Reptile",
+        "name": "Loggerhead Sea Turtle",
+        "scientificName": "Caretta caretta",
+        "description": [
+            "The loggerhead sea turtle is a species of oceanic turtle distributed throughout the world. The average loggerhead measures around 90 cm in carapace length when fully grown. The adult loggerhead sea turtle weighs approximately 135 kg.",
+            "The loggerhead sea turtle spends most of its life in saltwater and estuarine habitats, with females briefly coming ashore to lay eggs. It has a low reproductive rate. Females lay an average of four egg clutches and then become quiescent, producing no eggs for two to three years.",
+            "The loggerhead sea turtle is omnivorous, feeding mainly on bottom-dwelling invertebrates. Its large and powerful jaws serve as an effective tool for dismantling its prey. Young loggerheads are exploited by numerous predators, but once the turtles reach adulthood, their formidable size limits predation to large marine animals."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/reptilePage/loggerheadSeaTurtle.jpg"
+    },
+    {
+        "id": "marineIguana",
+        "type": "Reptile",
+        "name": "Marine Iguana",
+        "scientificName": "Amblyrhynchus cristatus",
+        "description": [
+            "The marine iguana is a species of iguana found only on the Galápagos Islands (Ecuador). Unique among modern lizards, it is a marine reptile that has the ability to forage in the sea for algae, which makes up almost all of its diet. Large males are able to dive to find this food source, while females and smaller males feed during low tide in the intertidal zone.",
+            "They mainly live in colonies on rocky shores where they bask after visiting the cold water or intertidal zone, but can also be seen in marshes, mangrove and beaches.",
+            "Marine iguanas can easily be approached by humans as they are very tame and generally make little or no attempt to escape. Even when repeatedly caught and mishandled, they do not attempt to bite or lash with their tail in self-defense (although the sharp claws can cause painful scratches when the iguana attempts to gain a grip)."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0.5,
+        "imageURL": "http://127.0.0.1:5500/img/reptilePage/marineIguana.jpg"
+    },
+    {
+        "id": "bandedSeaKrait",
+        "type": "Reptile",
+        "name": "Banded Sea Krait",
+        "scientificName": "Laticauda colubrina",
+        "description": [
+            "The yellow-lipped sea krait, also known as the banded sea krait, is a species of venomous sea snake found in tropical Indo-Pacific oceanic waters. The snake has distinctive black stripes and a yellow snout, with a paddle-like tail for use in swimming.",
+            "It spends much of its time underwater in order for it to hunt, but returns to land to digest, rest, and reproduce. It has very potent neurotoxic venom which it uses to prey on eels and small fish.",
+            "Because yellow-lipped sea kraits spend much of their time on land, they are often encountered by humans. They are frequently found in the water intake and exhaust pipes of boats. There are fewer recorded bites from this species compared to other venomous species such as cobras and vipers as it is less aggressive and tends to avoid humans. If they do bite, it is usually in self-defense when accidentally grabbed."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 1.5,
+        "imageURL": "http://127.0.0.1:5500/img/reptilePage/bandedSeaKrait.jpg"
+    },
+    {
+        "id": "americanCrocodile",
+        "type": "Reptile",
+        "name": "American Crocodile",
+        "scientificName": "Crocodylus acutus)",
+        "description": [
+            "The American crocodile is a species of crocodilian found in the Neotropics. It is the most widespread of the four extant species of crocodiles from the Americas, with populations present from South Florida and the coasts of Mexico to as far south as Peru and Venezuela.",
+            "Adult American crocodiles are apex predators, they have no natural predators. They are known predators of lemon sharks, and sharks avoid areas with American crocodiles. ",
+            "Attacks by American crocodiles have been reported in Mexico, Costa Rica, and Panama. The American crocodile rates somewhere in the middle of all crocodilians temperamentally. A study found that it has the highest incidence of reported attacks on humans of any of the crocodilians from the Americas, but fatalities were rare."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 4,
+        "imageURL": "http://127.0.0.1:5500/img/reptilePage/americanCrocodile.jpg"
+    },
+    {
+        "id": "saltwaterCrocodile",
+        "type": "Reptile",
+        "name": "Saltwater Crocodile",
+        "scientificName": "Crocodylus porosus",
+        "description": [
+            "The saltwater crocodile is a crocodilian native to saltwater habitats and brackish wetlands from India's east coast across Southeast Asia and the Sundaic region to northern Australia and Micronesia.",
+            "The saltwater crocodile is the largest living reptile and crocodilian known to science Males grow to a length of up to 6 m. It is a large and opportunistic hypercarnivorous apex predator. It is capable of prevailing over almost any animal that enters its territory, including other apex predators.",
+            "Of all the crocodilians, the saltwater crocodile has the strongest tendencies to treat humans as prey. It has a long history of attacking humans who unknowingly venture into its territory. As a result of its power, intimidating size and speed, survival of a direct predatory attack is unlikely if the crocodile is able to make direct contact."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 5,
+        "imageURL": "http://127.0.0.1:5500/img/reptilePage/saltwaterCrocodile.jpg"
+    },
+    {
+        "id": "blueWhale",
+        "type": "Mammal",
+        "name": "Blue Whale",
+        "scientificName": "Balaenoptera musculus",
+        "description": [
+            "The blue whale is a marine mammal belonging to the baleen whale suborder Mysticeti. Reaching a maximum confirmed length of 29.9 meters and weight of 190 tons, it is the largest animal known to have ever existed.",
+            "Blue whales feed on krill at the surface and at depths greater than 100 m, following their prey’s diel vertical migration through the water column. The main prey species of krill targeted by blue whales varies among habitat in the different ocean basins.",
+            "The blue whale was once abundant in nearly all the oceans on Earth until the end of the 19th century. It was hunted almost to the point of extinction by whaling until the International Whaling Commission banned all hunting of blue whales in 1967. The global blue whale population abundance is estimated to be 10,000–25,000 blue whales, roughly 3–11% of the population size estimated in 1911."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 0,
+        "imageURL": "http://127.0.0.1:5500/img/mammalPage/blueWhale.jpg"
+    },
+    {
+        "id": "seaOtter",
+        "type": "Mammal",
+        "name": "Sea Otter",
+        "scientificName": "Enhydra lutris",
+        "description": [
+            "The sea otter is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean. Adult sea otters typically weigh between 14 and 45 kg, making them the heaviest members of the weasel family, but among the smallest marine mammals. ",
+            "Unlike most marine mammals, the sea otter's primary form of insulation is an exceptionally thick coat of fur, the densest in the animal kingdom. Although it can walk on land, the sea otter is capable of living exclusively in the ocean.",
+            "The sea otter inhabits nearshore environments, where it dives to the sea floor to forage. It preys mostly on marine invertebrates such as sea urchins, various molluscs and crustaceans, and some species of fish. Its diet includes prey species that are also valued by humans as food, leading to conflicts between sea otters and fisheries."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 1,
+        "imageURL": "http://127.0.0.1:5500/img/mammalPage/seaOtter.jpg"
+    },
+    {
+        "id": "walrus",
+        "type": "Mammal",
+        "name": "Walrus",
+        "scientificName": "Odobenus rosmarus",
+        "description": [
+            "The walrus is a large flippered marine mammal with a discontinuous distribution about the North Pole in the Arctic Ocean and subarctic seas of the Northern Hemisphere. Adult walrus are characterised by prominent tusks and whiskers, and their considerable bulk: adult males in the Pacific can weigh more than 2,000 kilograms.",
+            "Walruses live mostly in shallow waters above the continental shelves, spending significant amounts of their lives on the sea ice looking for benthic bivalve mollusks to eat. Walruses are relatively long-lived, social animals.",
+            "In the 18th and 19th centuries, the walrus was heavily exploited by American and European sealers and whalers. Commercial walrus harvesting is now outlawed throughout its range, although Chukchi, Yupik and Inuit peoples are permitted to kill small numbers towards the end of each summer. "
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 2,
+        "imageURL": "http://127.0.0.1:5500/img/mammalPage/walrus.jpg"
+    },
+    {
+        "id": "bottlenoseDolphin",
+        "type": "Mammal",
+        "name": "Bottlenose Dolphin",
+        "scientificName": "Tursiops truncatus",
+        "description": [
+            "The common bottlenose dolphin is the most familiar dolphin species due to the wide exposure it receives in captivity in marine parks and dolphinaria, and in movies and television programs. It inhabits temperate and tropical oceans throughout the world, and is absent only from polar waters.",
+            "Its diet consists mainly of eels, squid, shrimp and a wide variety of fishes. It does not chew its food, instead swallowing it whole. Dolphin pods often work as a team to harvest schools of fish, though they also hunt individually. Dolphins search for prey primarily using echolocation, which is a form of sonar.",
+            "The species sometimes shows curiosity towards humans in or near water. Occasionally, they rescue injured divers by raising them to the surface. Despite this, they are predators and are capable of inflicting serious injuries upon humans."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 2,
+        "imageURL": "http://127.0.0.1:5500/img/mammalPage/bottlenoseDolphin.jpg"
+    },
+    {
+        "id": "killerWhale",
+        "type": "Mammal",
+        "name": "Killer Whale",
+        "scientificName": "Orcinus orca",
+        "description": [
+            "The killer whale, also known as the orca, is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. They can be found in each of the world's oceans in a variety of marine environments, from Arctic and Antarctic regions to tropical seas.",
+            "Orcas have a diverse diet, although individual populations often specialize in particular types of prey. They have been known to attack baleen whale calves, and even adult whales. Killer whales are apex predators, as no animal preys on them.",
+            "In Western cultures, killer whales were historically feared as dangerous, savage predators. Of the very few confirmed attacks on humans by wild killer whales, none have been fatal. However, in captivity, there have been several non-fatal and fatal attacks on humans."
+        ],
+        "likeCounter": 0,
+        "dangerLevel": 3,
+        "imageURL": "http://127.0.0.1:5500/img/mammalPage/killerWhale.jpg"
+    }
+]
